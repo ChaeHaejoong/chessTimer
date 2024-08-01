@@ -10,6 +10,7 @@ html, body {
 p {
   font-family: jamsil;
   font-size: 70px;
+  user-select: none;
 }
 
 .whiteSpace {
